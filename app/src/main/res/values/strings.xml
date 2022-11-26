@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyVideoPlayer</string>
+    <string name="toast_network_error">Network error. Please try later.</string>
+</resources>
